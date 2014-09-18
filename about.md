@@ -8,8 +8,7 @@ I am a gamer, open source developer, and masculinist.
 
 **I need masculinism because:**
 
-Men are discriminated against because of feminist agendas to reverse sexism by unfairly helping women get ahead.
-
+1. Men are discriminated against because of feminist agendas to reverse sexism by unfairly helping women get ahead.
 1. Society thinks that men who get raped were weak.
 1. "Empowered" women continue to oppress innocent nice guys.
 1. Men have to be the strong ones **all the time**.
