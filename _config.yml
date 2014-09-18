@@ -1,0 +1,10 @@
+# Site settings
+title: Aleksandra Meinhold's blog
+email: aleksandra@meinho.lt
+description: "Thoughts on a chaotic world"
+baseurl: ""
+url: "http://aleksandra.meinho.lt"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
